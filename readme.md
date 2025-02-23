@@ -141,7 +141,7 @@ body[data-theme="dark"] {
 
 ## 📬 Connect With Me
 
-📧 Email: your.email@example.com
+📧 Email: docode537@gmail.com
 
 🌍 Website: [docoe.co.in](https://docode.co.in/)
 
