@@ -8,7 +8,7 @@ This project demonstrates a simple implementation of a **Dark Mode & Light Mode*
 ![Dark Mode Toggle Demo](theme-toggler.gif)
 
 ## 🔥 Tutorials
-📺 Watch the tutorial on **[Video Tutorial](##)**
+📺 Watch the tutorial on **[Video Tutorial](https://youtu.be/IBQtJOiltf4?si=6leN6D3dn7wiRifS)**
 📖 Read the blog post on **[Blog Tutorial](https://docode.co.in/post/dark-mode-light-mode-toggle-using-css-js)**
 
 ---
