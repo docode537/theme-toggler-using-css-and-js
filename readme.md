@@ -1,12 +1,15 @@
 
 # Dark Mode & Light Mode Using CSS and JavaScript
+
+![Dark Mode Toggle Demo](theme-toggler-thumbnail.png)
+
 This project demonstrates a simple implementation of a **Dark Mode & Light Mode** toggle using **CSS and JavaScript**. It allows users to switch between themes, and the selection is stored in **localStorage** to persist across sessions.
 ## 🔥 Preview
 ![Dark Mode Toggle Demo](theme-toggler.gif)
 
 ## 🔥 Tutorials
 📺 Watch the tutorial on **[Video Tutorial](##)**
-![Dark Mode Toggle Demo](theme-toggler-thumbnail.png)
+
 
 📖 Read the blog post on **[Blog Tutorial](https://docode.co.in/post/dark-mode-light-mode-toggle-css-js)**
 
