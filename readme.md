@@ -9,9 +9,7 @@ This project demonstrates a simple implementation of a **Dark Mode & Light Mode*
 
 ## 🔥 Tutorials
 📺 Watch the tutorial on **[Video Tutorial](##)**
-
-
-📖 Read the blog post on **[Blog Tutorial](https://docode.co.in/post/dark-mode-light-mode-toggle-css-js)**
+📖 Read the blog post on **[Blog Tutorial](https://docode.co.in/post/dark-mode-light-mode-toggle-using-css-js)**
 
 ---
 ## 🚀 Features
